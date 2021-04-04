@@ -1,0 +1,25 @@
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.deps.json
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.csprojAssemblyReference.cache
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.AssemblyInfoInputs.cache
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.AssemblyInfo.cs
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\robson.costa\source\repos\WebApplication3\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.deps.json
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.AssemblyInfoInputs.cache
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.AssemblyInfo.cs
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\Higor Anjps\source\repos\Crud No Sql\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.deps.json
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\bin\Debug\netcoreapp3.1\Teste.Entidades.pdb
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.AssemblyInfoInputs.cache
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.AssemblyInfo.cs
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.dll
+C:\Users\robson.costa\source\WebAPI\Metodo--Crud--Insert-Delete-SQL-master\Metodo--Crud--Insert-Delete-SQL-master\Teste.Entidades\obj\Debug\netcoreapp3.1\Teste.Entidades.pdb
